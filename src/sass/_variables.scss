@@ -2,30 +2,30 @@ $font-color-primary: #e8eaf3;
 $font-color-secondary: darken(#fff, 25);
 $font-link-primary: #595c67;
 $font-link-primary-hover: #8f93a2;
-$color-primary: #141824;
-$color-secondary: #090b10;
+$color-primary: #2e3440;
+$color-secondary: #3b4252;
 
-$column-color: #0f111a;
-$column-header-background-color: #0c0c10;
+$column-color: #2e3440;
+$column-header-background-color: #3b4252;
 
 $content-warning-background-color: #0a0c13;
 $content-warning-background-color: black;
 $content-warning-font-color: $font-link-primary-hover;
 
-$default-font-size: 15px;
-$small-font-size: 12px;
+$default-font-size: 16px;
+$small-font-size: 13px;
 $btn-primary-color: #444f74;
 $btn-primary-color-hover: darken($btn-primary-color, 10);
 $btn-primary-font-color: white;
-$status-primary-color: #fff;
-$status-secondary-color: #4e5572;
-$status-links-color: #d9e1e8;
-$boost-color : #5098eb;
-$favorite-color: #ffc16f;
-$bookmarked-color: #ff5050;
+$status-primary-color: #eceff4;
+$status-secondary-color: #d8dee9;
+$status-links-color: #88c0d0;
+$boost-color : #5e81ac;
+$favorite-color: #ebcb8b;
+$bookmarked-color: #bf616a;
 
 // Block dispositions
-$scroll-bar-width: 8px;
+$scroll-bar-width: 10px;
 
 $stream-selector-height: 30px;
 $stream-column-separator: 7px;
@@ -47,7 +47,7 @@ $button-background-color-hover: lighten($color-primary, 20);
 $button-border-color: #303957;
 
 
-$column-background: #0f111a;
+$column-background: #2e3440;
 
 $card-border-color: #2b344d;
 
@@ -65,10 +65,9 @@ $status-editor-background: #d9e1e8;
 $status-editor-background: #ffffff;
 $status-editor-color: #23252c;
 $status-editor-color: #14151a;
-$status-editor-footer-background: #535c7e;
-$status-editor-footer-background: #3e455f;
+$status-editor-footer-background: #3b4252;
 $status-editor-footer-link-color: #e2e2e2;
-$selected-status: #1e2734;
+$selected-status: #4c566a;
 
 $autosuggest-background: #ffffff;
 $autosuggest-entry-background: #3e455f;
@@ -94,9 +93,9 @@ $poll-editor-input-border-focus: #007be0;
 
 $scheduler-background: #3e455f;
 
-$notification-column-selector-background: #171c29;
-$notification-column-selector-color: #999fb1;
-$notification-column-selector-color-hover: white;
+$notification-column-selector-background: #2e3440;
+$notification-column-selector-color: #4c566a;
+$notification-column-selector-color-hover: #d8dee9;
 
 $settings-text-input-background: #242836;
 $settings-text-input-foreground: white;

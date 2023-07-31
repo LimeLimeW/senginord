@@ -11,7 +11,7 @@ $header-content-height: 40px;
         width: calc(100%);
         height: $header-content-height;
         background-color: $column-header-background-color; 
-        border-bottom: 1px solid #222736;        
+        border-bottom: 1px solid #2e3440;        
     }
     &__content-wrapper  {
         transition: all .2s;
@@ -46,7 +46,7 @@ $header-content-height: 40px;
     &__button {
         width: 25px;
         height: 25px;
-        color: #354060;
+        color: #4c566a;
         transition: all .2s;
         margin: 8px 0 0 8px;
         &:hover {
