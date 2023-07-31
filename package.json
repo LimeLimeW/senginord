@@ -17,6 +17,8 @@
         "start": "ng serve",
         "start-mem": "node --max_old_space_size=5048 ./node_modules/@angular/cli/bin/ng serve",
         "build": "ng build --prod",
+        "build-gh": "ng build --prod --base-href https://limelimew.github.io/sengi-nord/",
+        "ngh": "ngh --dir=dist",
         "test": "ng test",
         "test-nowatch": "ng test --watch=false",
         "lint": "ng lint",
